@@ -1,5 +1,5 @@
 This Application is made by Faizan.
-To check the images of the project. Check ScreenShot file.
+To check the images of the project. Check Screenshot file.
 
 ![Preview of project](https://github.com/Faizan777/test-64-q-3ca42df1e84a4261977ecec34f308223--react-16.9-yarn-in-docker/blob/master/Screenshot.PNG?raw=true)
 

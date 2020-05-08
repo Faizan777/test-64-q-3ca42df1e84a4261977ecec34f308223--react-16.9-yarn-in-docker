@@ -1,6 +1,9 @@
 This Application is made by Faizan.
 To check the images of the project. Check ScreenShot file.
 
+![Preview of project](https://github.com/Faizan777/test-64-q-3ca42df1e84a4261977ecec34f308223--react-16.9-yarn-in-docker/blob/master/Screenshot.PNG?raw=true)
+
+
 IMPORTANT NOTES (In case Backend Service API Integration is required):
 
     1. The backend endpoint host url can be accessed using "process.env.REACT_APP_API_URL" property. An example is shown in index.js.

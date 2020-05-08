@@ -1,24 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
+import AddLeadModal from './Components/AddLeadModal';
+import LeadTable from './Components/LeadTable';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     
+    <div>
+    <div className="top"><h3>Lead Management Dashboad</h3></div>
+   {<AddLeadModal/>}
+   {<LeadTable/>} 
     </div>
   );
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/static/js/main.3ed40d2d.chunk.js",
-    "main.js.map": "/static/js/main.3ed40d2d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.45577b49.js",
-    "runtime~main.js.map": "/static/js/runtime~main.45577b49.js.map",
-    "static/js/2.ec011850.chunk.js": "/static/js/2.ec011850.chunk.js",
-    "static/js/2.ec011850.chunk.js.map": "/static/js/2.ec011850.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6a96ae113ce5e11d0c99410ec8d7743a.js": "/precache-manifest.6a96ae113ce5e11d0c99410ec8d7743a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ba49ec77.chunk.css.map": "/static/css/main.ba49ec77.chunk.css.map"
+    "main.css": "faizan777.github.io/cjapp/static/css/main.ba49ec77.chunk.css",
+    "main.js": "faizan777.github.io/cjapp/static/js/main.2a821d81.chunk.js",
+    "main.js.map": "faizan777.github.io/cjapp/static/js/main.2a821d81.chunk.js.map",
+    "runtime~main.js": "faizan777.github.io/cjapp/static/js/runtime~main.a5e6f8b0.js",
+    "runtime~main.js.map": "faizan777.github.io/cjapp/static/js/runtime~main.a5e6f8b0.js.map",
+    "static/js/2.ec011850.chunk.js": "faizan777.github.io/cjapp/static/js/2.ec011850.chunk.js",
+    "static/js/2.ec011850.chunk.js.map": "faizan777.github.io/cjapp/static/js/2.ec011850.chunk.js.map",
+    "index.html": "faizan777.github.io/cjapp/index.html",
+    "precache-manifest.81a03f71a74cf7ffefe2932d4230370e.js": "faizan777.github.io/cjapp/precache-manifest.81a03f71a74cf7ffefe2932d4230370e.js",
+    "service-worker.js": "faizan777.github.io/cjapp/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "faizan777.github.io/cjapp/static/css/main.ba49ec77.chunk.css.map"
   }
 }

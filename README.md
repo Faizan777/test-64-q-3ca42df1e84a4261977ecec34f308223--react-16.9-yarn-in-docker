@@ -1,6 +1,5 @@
-# cj-app
-React SPA
-
+This Application is made by Faizan.
+To check the images of the project. Check ScreenShot file.
 
 IMPORTANT NOTES (In case Backend Service API Integration is required):
 
